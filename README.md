@@ -11,7 +11,7 @@ chat_id = '*******'
 limit = 59000
 time_interval = 5 * 6
 def get_price():
-    url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
+    url = 
 
     headers = {
         'Accepts': 'application/json',
